@@ -9,8 +9,9 @@ After nearly **20 years working in various factories and production companies**,
 - **2023**: Graduated as a **Web & Mobile Developer** (Bac+2) after completing a training program.  
 - **June 2025**: Earned a **Concepteur Développeur d'Applications** (Bac+4) specializing in **JavaScript and React**.  
 
-## 🔥 Freelance Developer  
+<!-- ## 🔥 Freelance Developer  
 Since **July 2025**, I’ve been working as a **freelance frontend developer**, collaborating with clients to create modern, efficient, and user-friendly web applications.
+-->
 
 ## 🌱 Currently Learning  
 - **TypeScript** to enhance my JavaScript expertise.  
